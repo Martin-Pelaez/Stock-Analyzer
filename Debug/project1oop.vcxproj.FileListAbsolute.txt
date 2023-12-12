@@ -1,0 +1,4 @@
+C:\Users\Martin Pelaez\source\repos\project1oop\project1oop\Debug\project1oop.vcxprojAssemblyReference.cache
+C:\Users\Martin Pelaez\source\repos\project1oop\project1oop\Debug\project1oop.chartForm.resources
+C:\Users\Martin Pelaez\source\repos\project1oop\project1oop\Debug\project1oop.Form1.resources
+C:\Users\Martin Pelaez\source\repos\project1oop\project1oop\Debug\project1oop.vcxproj.GenerateResource.cache
